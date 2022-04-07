@@ -1,0 +1,5 @@
+﻿  CommTestDlg.cpp
+F:\face_recognition\CommTest_현대통신\CommTest\CommTestDlg.cpp(274,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\face_recognition\CommTest_현대통신\CommTest\CommTestDlg.cpp(288,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\face_recognition\CommTest_현대통신\CommTest\CommTestDlg.cpp(260,11): warning C4101: 'str_len' :참조되지 않은 지역 변수입니다.
+  CommTest.vcxproj -> F:\face_recognition\CommTest_현대통신\Debug\CommTest.exe
